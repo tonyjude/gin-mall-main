@@ -1,0 +1,5 @@
+p,superAdmin,/api/v1/user/*,*
+p,superAdmin,/api/v1/orders/*,*
+p,superAdmin,/api/v1/ping,*
+p,*,/api/v1/product/*,*
+p,user,/api/v1/user/*,*
